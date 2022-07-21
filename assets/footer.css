@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap');
+*{
+    font-family: 'Inter';
+    font-style: normal;
+    padding-left: 0%;
+
+}
+.body1{
+    background: #ED1313;
+    width: 60%;
+
+}
+.htmli{
+   background:#ED1313;
+}
+#input{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    padding: 2%;
+    font-style: italic;
+    
+}
+
+.baton:hover{
+    background: black;
+    border:black; 
+}
+.baton{
+    color: white;
+    background: black;
+    border:black; 
+    border-radius: 4px;
+}
+.batton{
+    padding-top: 2%;
+    padding-left: 2%;
+    /* font-family: 'Courier New', Courier, monospace; */
+    
+    
+}
+.pp3{
+    padding-left: 2%;
+}
+.updates{
+    padding-left: 30%;
+}
+#news{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color:black;
+    border:black;
+    border-radius: 8px;
+    color: rgb(223, 233, 242);
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+#news:hover{
+    color: white;
+    background: black;
+    border: black;
+}
+.icons{
+    padding-left: 2%;
+}
+i{
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 3%;
+    
+}
+.contacts>h3{
+    font-size: 30px;
+    padding-left: 2%;
+
+}
+#Portal:hover{
+    background: black;
+    border: black;
+}
+#Portal{
+    color: white;
+    background: black;
+    border: black;
+    border-radius: 7px;
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.portal{
+    padding-left: 2%;
+}
+#Donate:hover{
+    background: black;
+    border: black;
+}
+#Donate{
+    color: white;
+    background: black;
+    border: black;
+    border-radius: 7px;
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.donate{
+    padding-left:2%;
+}
+#Find:hover{
+    background: black;
+    border: black;
+}
+#Find{
+    color: white;
+    background: black;
+    border: black;
+    border-radius: 7px;
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px; 
+}
+.find{
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.img_hand{
+    position: absolute;
+    top:0%;
+    left: 58%;
+    
+
+}
+.design{
+    font-weight: bolder;
+    
+}
+.prev>a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  .prev>a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .previous {
+    background-color:  rgb(148, 32, 32);
+    color: white
+  }
+  .next {
+    background-color:  rgb(148, 32, 32);
+    color: white;
+  }
+  .round {
+    border-radius: 50%;
+  }
+  .prev{
+    padding-left: 2%;
+    padding-bottom: 2%;
+  }
+
+
+
+
+
+
+
+
+
+
