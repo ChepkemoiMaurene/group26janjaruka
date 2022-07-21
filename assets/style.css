@@ -78,7 +78,7 @@ float: right;
     top: -125px;
 }
 #body {
-    background:rgba(0, 0, 0, 0.6)url("..//images/hands.jpg");
+    background:rgba(0, 0, 0, 0.6)url("/assets/images/hands.jpg");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -159,7 +159,7 @@ h2{
     font-size: medium;
   }
   #body1 {
-    background:rgba(0, 0, 0, 0.6)url("..//images/hands1.webp");
+    background:rgba(0, 0, 0, 0.6)url("/assets/images/hands1.webp");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -167,7 +167,7 @@ h2{
     position: relative;  
   }
   #body2 {
-    background:rgba(0, 0, 0, 0.6)url("..//images/hands2.jpg");
+    background:rgba(0, 0, 0, 0.6)url("/assets/images/hands2.jpg");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
