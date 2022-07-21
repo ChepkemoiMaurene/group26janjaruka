@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap');
+*{
+    font-family: 'Inter';
+    font-style: normal;
+}
+nav{
+    position:relative;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.logo{
+    color: #000000;
+    font-weight: 700;
+    font-size:xx-large;
+}
+​
+nav>ul>li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 1vh 1vw;
+    font-size:x-large;
+    font-weight: 700;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #d71011;
+    font-weight: 500;
+}
+nav ul li a:hover{
+    color: #000305;
+    transition: .10s;
+}
+button{
+    border: none;
+    border-radius: 11px;
+    padding: 12px 30px;
+    width:243.43px;
+    background: #d71011;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}
+.main_content{
+    background-blend-mode: darken;
+    background:rgba(0, 0, 0, 0.6)url("/group26janjaruka/assets/images/background\ ribbon.jpg");
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size:contain;
+    height:120vh;
+    width:100%;
+}
+.content1{
+    color: white;
+    font-size: xx-large;
+    font-weight: 700;
+    padding-top: 4%;
+    padding-left: 2%;
+}
+.content2{
+    color: white;
+    font-size: xx-large;
+    padding-top: 10%;
+    padding-left: 35%;
+}
+.button2{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+
+.flex li{
+    padding: 10px;
+    list-style: none;
+}

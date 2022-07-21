@@ -114,4 +114,29 @@ h2{
 .bookingstatement:hover{
     background-color: white;
 }
+
+.bootstrapanchor > a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  .bootstrapanchor > a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .previous {
+    background-color:  rgb(148, 32, 32);
+    color: white
+  }
+  
+  .next {
+    background-color:  rgb(148, 32, 32);
+    color: white;
+  }
+  .round {
+    border-radius: 50%;
+  }
+
 /*end of index.html*/
