@@ -26,7 +26,7 @@
     font-size: medium;
   }
   #body1 {
-    background:rgba(0, 0, 0, 0.6)url("/assets/images/hands1.webp");
+    background:rgba(0, 0, 0, 0.6)url("../assets/images/hands1.webp");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -34,7 +34,7 @@
     position: relative;  
   }
   #body2 {
-    background:rgba(0, 0, 0, 0.6)url("/assets/images/hands2.jpg");
+    background:rgba(0, 0, 0, 0.6)url("../assets/images/hands2.jpg");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
