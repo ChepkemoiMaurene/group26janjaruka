@@ -127,6 +127,7 @@ img{
 }
 .round {
     border-radius: 50%;
+<<<<<<< HEAD
 }
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap');
 *{ 
@@ -344,3 +345,6 @@ h2{
 
 
   
+=======
+}
+>>>>>>> 3cbae37828b58e20a1a4195a8b72e26c1810da13
